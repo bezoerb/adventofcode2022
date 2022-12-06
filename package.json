@@ -1,0 +1,27 @@
+{
+  "name": "adventofcode2022",
+  "version": "1.0.0",
+  "description": "https://adventofcode.com/2022",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bezoerb/adventofcode2022.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bezoerb/adventofcode2022/issues"
+  },
+  "homepage": "https://github.com/bezoerb/adventofcode2022#readme",
+  "dependencies": {
+    "callsite": "^1.0.0",
+    "picocolors": "^1.0.0"
+  }
+}
